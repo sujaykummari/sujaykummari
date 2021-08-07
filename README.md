@@ -4,7 +4,7 @@
 
 ## Learner && Design && Developer  
 
-I'm Sujay from India. I enjoy learning languages like JAVA, C, C++, HTML, CSS, MYSQL and frameworks like Javascript, Nodejs, React, React Native as well as work in ui,ux design in XD.
+I'm Sujay from India. I enjoy learning languages like Python, C, C++, HTML, CSS, MYSQL and frameworks like Javascript, Nodejs, React, React Native as well as work in ui,ux design in XD.
 
 ### Skills and Experience
 * 🐍 python
