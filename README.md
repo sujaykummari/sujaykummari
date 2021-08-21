@@ -12,6 +12,7 @@ I'm Sujay from India. I enjoy learning languages like Python, C, C++, HTML, CSS,
 * 💻 HTML, CSS, JS
 * ⚛ React
 * ❇️ Nodejs
+* 🍂MongoDB
 
 I work as a FULL-STACK developer at Shape AI
 
@@ -22,12 +23,12 @@ I work as a FULL-STACK developer at Shape AI
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujaykummari&show_icons=true&locale=en&layout=compact" alt="sujaykummari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujaykummari&show_icons=true&locale=en&layout=compact" alt="sujaykummari" /></p><br/>
 
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujaykummari&show_icons=true&locale=en" alt="sujaykummari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujaykummari&show_icons=true&locale=en" alt="sujaykummari" /></p><br/>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
