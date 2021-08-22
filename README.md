@@ -31,5 +31,5 @@ I work as a FULL-STACK developer at Shape AI
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujaykummari&show_icons=true&locale=en" alt="sujaykummari" /></p><br/>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-stack developer from India</h3>
 
