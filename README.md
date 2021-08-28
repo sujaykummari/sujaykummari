@@ -11,7 +11,7 @@ I'm Sujay from India. I enjoy learning languages like Python, C, C++, HTML, CSS,
 * 🐬 MySQL
 * 💻 HTML, CSS, JS
 * ⚛ React
-* ❇️ Nodejs
+* ❇️ Node.js
 * 🍂MongoDB
 
 I work as a FULL-STACK developer at Shape AI
