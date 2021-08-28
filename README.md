@@ -1,6 +1,6 @@
 # Hello World, I'm  sujay 👋
 
- <img align="right" alt="GIF" src="https://github.com/Dushyant029/Dushyant029/blob/main/developer.gif?raw=true  " width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/sujaykummari/sujaykummari/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif" width="500" height="320" />
 
 ## Learner && Design && Developer  
 
