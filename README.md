@@ -14,7 +14,7 @@ I'm Sujay from India. I enjoy learning languages like Python, C, C++, HTML, CSS,
 * ❇️ Node.js
 * 🍂MongoDB
 
-I work as a FULL-STACK developer at Shape AI
+I work as a FULL-STACK developer intern at Shape AI
 
 
 
