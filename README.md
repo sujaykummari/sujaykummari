@@ -25,9 +25,9 @@ I work as a FULL-STACK developer intern at Shape AI
 
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujaykummari&show_icons=true&locale=en&layout=compact&theme=react" alt="sujaykummari" /></p><div/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujaykummari&show_icons=true&locale=en&layout=compact&theme=react" alt="sujaykummari" /></p>
 
-<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujaykummari&show_icons=true&locale=en&theme=react" alt="sujaykummari" /></p><div/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujaykummari&show_icons=true&locale=en&theme=react" alt="sujaykummari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujaykummari&theme=react" alt="sujaykummari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujaykummari&theme=react" alt="sujaykummari" /></p><div/>
 
