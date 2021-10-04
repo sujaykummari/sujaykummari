@@ -6,7 +6,7 @@
 
 I'm Sujay from India. I enjoy learning languages like Python, C, C++, HTML, CSS, MYSQL and frameworks like Javascript, Nodejs, React, React Native as well as work in ui,ux design in XD.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaykummari&label=Profile%20views&color=0e75b6&style=flat" alt="chenna1199" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaykummari&label=Profile%20views&color=0e75b6&style=flat" alt="sujaykummari" /> </p>
 
 ### Skills and Experience
 * 🐍 python
