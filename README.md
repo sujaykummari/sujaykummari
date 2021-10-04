@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/sujaykummari/sujaykummari/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif" width="500" height="320" />
 
-## Learner && Design && Developer  
+## Learner &&  Developer. 
 
 I'm Sujay from India. I enjoy learning languages like Python, C, C++, HTML, CSS, MYSQL and frameworks like Javascript, Nodejs, React, React Native as well as work in ui,ux design in XD.
 
