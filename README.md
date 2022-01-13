@@ -2,7 +2,7 @@
 
 ## Learner &&  Developer. 
 
-I'm Sujay . I enjoy learning languages like Python, C, C++, HTML, CSS,Javascript and frameworks like Nodejs, React.
+I'm Sujay , I enjoy learning languages like Python, C, C++, HTML, CSS,Javascript and frameworks like Nodejs, React.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaykummari&label=Profile%20views&color=0e75b6&style=flat" alt="sujaykummari" /> </p>
 
