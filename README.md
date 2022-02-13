@@ -13,7 +13,7 @@ I'm Sujay , I enjoy learning languages like Python, C, C++, HTML, CSS,Javascript
 * ❇️ Node.js
 * 🍂MongoDB
 
-I work as a FULL-STACK developer intern at Shape AI
+
 
 
 
