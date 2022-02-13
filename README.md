@@ -2,8 +2,6 @@
 
 ## Learner &&  Developer. 
 
-I'm Sujay 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaykummari&label=Profile%20views&color=0e75b6&style=flat" alt="sujaykummari" /> </p>
 
 ### Skills and Experience
